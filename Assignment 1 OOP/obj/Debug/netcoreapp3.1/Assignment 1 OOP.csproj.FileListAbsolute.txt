@@ -1,0 +1,16 @@
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\bin\Debug\netcoreapp3.1\Assignment 1 OOP.exe
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\bin\Debug\netcoreapp3.1\Assignment 1 OOP.deps.json
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\bin\Debug\netcoreapp3.1\Assignment 1 OOP.runtimeconfig.json
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\bin\Debug\netcoreapp3.1\Assignment 1 OOP.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\bin\Debug\netcoreapp3.1\Assignment 1 OOP.dll
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\bin\Debug\netcoreapp3.1\Assignment 1 OOP.pdb
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment_1_OOP.Form1.resources
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.AssemblyInfo.cs
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.dll
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.pdb
+C:\Users\Computer\Desktop\Darlyn Nunez\Assignment 1 OOP\obj\Debug\netcoreapp3.1\Assignment 1 OOP.genruntimeconfig.cache
